@@ -1,3 +1,3 @@
-# calculator-2.github.io
+# calculator-2
 
-[demo](https://nguyen-thanh-luan-github.github.io/calculator-2.github.io/)
+[demo](https://thanh-luan-nguyen.github.io/calculator-2/)
